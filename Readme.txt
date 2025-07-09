@@ -1,0 +1,1 @@
+Extract the files in the zip, please check the Implementation Guide
